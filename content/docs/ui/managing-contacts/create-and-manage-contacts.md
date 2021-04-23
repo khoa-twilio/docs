@@ -179,7 +179,8 @@ _To remove all of your unusable Marketing Campaigns contacts:_
 1. Return to your dashboard, navigate to the left-hand menu and select **Marketing**, then **Contacts**.
 1. In the upper right corner click **Add Contacts** and select **Upload CSV**.
 1. Select **Create New List** and name it something obvious, like "Remove Invalid Emails."
-1. Once uploaded, click the action menu to the right of that new list and select **Delete**.
+1. Once uploaded, wait for the confirmation email indicating your contacts are ready for use.
+1. Click the action menu to the right of that new list and select **Delete**.
 1. Check the box indicating to delete "all contacts associated with this list."
 
 ### Delete a specific contact
